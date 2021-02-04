@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "86ml7pJ8eJKVnvMbw5dSYDvBIAAEmonDv7Qz/cfDJ06B+FeRwJKf9gdgBQCZT03pQLQCe2Kuf4za4NjplmMT3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WIN7\\source\\repos\\BarkodOkutma.WindowsFormUI\\BarkodOkutma.WindowsFormUI\\BarkodOkutma.WindowsFormUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WIN7\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512"
+  ],
+  "logs": []
+}

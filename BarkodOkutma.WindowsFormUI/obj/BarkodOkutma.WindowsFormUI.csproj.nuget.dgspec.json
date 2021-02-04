@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\WIN7\\source\\repos\\BarkodOkutma.WindowsFormUI\\BarkodOkutma.WindowsFormUI\\BarkodOkutma.WindowsFormUI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\WIN7\\source\\repos\\BarkodOkutma.WindowsFormUI\\BarkodOkutma.WindowsFormUI\\BarkodOkutma.WindowsFormUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\WIN7\\source\\repos\\BarkodOkutma.WindowsFormUI\\BarkodOkutma.WindowsFormUI\\BarkodOkutma.WindowsFormUI.csproj",
+        "projectName": "BarkodOkutma.WindowsFormUI",
+        "projectPath": "C:\\Users\\WIN7\\source\\repos\\BarkodOkutma.WindowsFormUI\\BarkodOkutma.WindowsFormUI\\BarkodOkutma.WindowsFormUI.csproj",
+        "packagesPath": "C:\\Users\\WIN7\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\WIN7\\source\\repos\\BarkodOkutma.WindowsFormUI\\BarkodOkutma.WindowsFormUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\WIN7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
